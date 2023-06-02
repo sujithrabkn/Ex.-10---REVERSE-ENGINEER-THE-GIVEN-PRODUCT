@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![baseball bat](https://github.com/sujithrabkn/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119477857/83b3c758-0970-425a-bc4a-233c8e818eed)
 
-### Output:
+## Output:
+![DESIGN CHALLENGE](https://github.com/sujithrabkn/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119477857/ddf61750-5242-4859-9111-58ca7cfda9d9)
 
 
-### Name:
-### Register Number:
+### Name: SUJITHRA B K N
+### Register Number: 212222230153
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
